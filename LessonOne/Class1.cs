@@ -12,7 +12,7 @@ namespace LessonOne;
 
 //    public void GetEmp()
 //    {
-       
+  ggg     
 //    }
 //}
 //
